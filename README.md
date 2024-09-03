@@ -1,4 +1,4 @@
-# Cisco DUo
+# Cisco Duo
 <img src="https://github.com/user-attachments/assets/ed6df4c0-7de8-40dd-8a4d-be3023259c42" width="256px"></img>
 
 # Data Tables
